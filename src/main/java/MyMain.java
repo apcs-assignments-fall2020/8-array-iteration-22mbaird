@@ -26,7 +26,7 @@ public class MyMain {
             
 
         }
-        int sb = arr[arr.length-1];
+        int sb = arr[arr.length-2];
         return sb;
 
         
